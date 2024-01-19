@@ -15,3 +15,7 @@ It is a **pureVeg resturent**.
 2. curd Rice 
 7. lemon Rice
 
+
+- India Gate
+- T mobile 
+- Bus stand 
