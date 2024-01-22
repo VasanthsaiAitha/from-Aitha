@@ -19,3 +19,5 @@ It is a **pureVeg resturent**.
 - India Gate
 - T mobile 
 - Bus stand 
+
+[***My Profile***](/MyMedia.md)
