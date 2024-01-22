@@ -22,5 +22,20 @@ Eat That Frog! is all about overcoming procrastination and learning to manage yo
 # Favorite Quotes
 > "Never Give Up"  
 >"You can't see me!"
-  
+
              -*John cena*
+
+---
+# Code Fencing
+
+
+The Record<> utility type in TypeScript is typically associated with a record or a collection of records returned from an API endpoint. It helps define a type with property names such as id and map the values to the type of the data.
+
+```
+const myTypedObject: Record = {
+  first: {...},
+  second: {...},
+  ...
+};
+```
+For more Reference <https://code.pieces.app/collections/typescript>
