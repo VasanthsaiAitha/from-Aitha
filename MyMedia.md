@@ -17,3 +17,10 @@ Eat That Frog! is all about overcoming procrastination and learning to manage yo
 | Biography of X | It makes you think afresh about America and American history |Catherine Lacey|
 | The Best of Everything | The Best of Everything portrays their lives and passions with intelligence, affection and prose as sharp as a paper cut | Rona Jaffe |
 #
+
+---
+# Favorite Quotes
+> "Never Give Up"  
+>"You can't see me!"
+  
+             -*John cena*
